@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Francisco</title>
+		<link href="../css/stylesheet.css" rel="stylesheet" type="text/css"/>
 	</head>
 	<body>
 		<h1>About Me</h1>
@@ -16,6 +17,8 @@
 				I enjoy playing tennis for fun outside of work. I also enjoy PC gaming when I have free time.
 			</p>
 		<h2>Office with a View</h2>
-			<img src="http://i.imgur.com/TNI4MoR.jpg" alt="newView"/>
+			<img src="http://i.imgur.com/TNI4MoR.jpg" alt="newView"
+			width="1280px"
+			height="720px"/>
 	</body>
 </html>
