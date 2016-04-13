@@ -15,5 +15,6 @@
 			<p>
 				I enjoy playing tennis for fun outside of work. I also enjoy PC gaming when I have free time.
 			</p>
+		<h2>Office with a View</h2>
 	</body>
 </html>
