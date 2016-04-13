@@ -4,6 +4,7 @@
 		<meta charset="UTF-8">
 		<title>Francisco</title>
 		<link href="../css/stylesheet.css" rel="stylesheet" type="text/css"/>
+		<link href='https://fonts.googleapis.com/css?family=Covered+By+Your+Grace' rel='stylesheet' type='text/css'>
 	</head>
 	<body>
 		<h1>About Me</h1>
