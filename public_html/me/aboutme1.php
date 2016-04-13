@@ -10,6 +10,9 @@
 				<p>
 					I'm from Seattle but since High School I've split my time between here in Albuquerque and South Carolina. Other than being a student at UNM I've been working as a Tennis Pro at a couple different Acadamies.
 				</p>
-			<h2>Hobbies</h2>
+		<h2>Hobbies</h2>
+			<p>
+				I enjoy playing tennis for fun outside of work. I also enjoy PC gaming when I have free time.
+			</p>
 	</body>
 </html>
