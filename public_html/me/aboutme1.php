@@ -16,7 +16,7 @@
 				I enjoy playing tennis for fun outside of work. I also enjoy PC gaming when I have free time.
 			</p>
 		<h2>Office with a View</h2>
-			<img src="C:\Users\Francisco\Desktop\Bootcamp\git\aboutme1\public_html\images\view.JPG" alt="office view"/>
+			<img src="" alt="office view"/>
 
 
 	</body>
