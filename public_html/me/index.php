@@ -11,18 +11,18 @@
 	<body>
 		<h1 id="about-me"> About Me</h1>
 		<hr>
-			<h2>Background</h2>
+		<h2>Background</h2>
 				<p>
-					I'm from Seattle but since High School I've split my time between here in Albuquerque and South Carolina. Other than being a student at UNM I've been working as a Tennis Pro at a couple different Acadamies.
+					I'm from Seattle but since High School I've split my time between here in Albuquerque and South Carolina. Other than being a student at UNM I've been working as a Tennis Pro at a couple different Academies.
 				</p>
 		<h2 id="hobbies"> Hobbies</h2>
 			<p>
 				I enjoy playing tennis for fun outside of work. I also enjoy PC gaming when I have free time.
 			</p>
 		<h2 id="office"> Office with a View</h2>
-			<img src="http://i.imgur.com/TNI4MoR.jpg" class="view"
-			height="480px"
-			width="854px"/>
+			<div class="view">
+				<img src="http://i.imgur.com/TNI4MoR.jpg" height="480px" width="854px"/>
+			</div>
 		<hr>
 	</body>
 </html>
