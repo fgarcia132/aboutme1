@@ -1,10 +1,17 @@
 h1{
-	background-color: black;
-	color: ghostwhite;
+	background-color: rgba(000, 000, 000,0.5);
+	font-family: 'Alegreya Sans', sans-serif;
+	color: #86E2D5;
 	font-size: 300%;
 	text-align: center;
 }
 h2{
 	font-family: 'Covered By Your Grace', cursive;
 	font-size: 200%;
+}
+body{
+	background-color: #BDC3C7;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 125%;
+	margin: 10%;
 }
